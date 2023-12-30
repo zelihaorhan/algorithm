@@ -1,0 +1,7 @@
+C:\Users\Zeliha\Documents\GitHub\algorithm\question9\question9\bin\Debug\question9.exe.config
+C:\Users\Zeliha\Documents\GitHub\algorithm\question9\question9\bin\Debug\question9.exe
+C:\Users\Zeliha\Documents\GitHub\algorithm\question9\question9\bin\Debug\question9.pdb
+C:\Users\Zeliha\Documents\GitHub\algorithm\question9\question9\obj\Debug\question9.csproj.AssemblyReference.cache
+C:\Users\Zeliha\Documents\GitHub\algorithm\question9\question9\obj\Debug\question9.csproj.CoreCompileInputs.cache
+C:\Users\Zeliha\Documents\GitHub\algorithm\question9\question9\obj\Debug\question9.exe
+C:\Users\Zeliha\Documents\GitHub\algorithm\question9\question9\obj\Debug\question9.pdb
