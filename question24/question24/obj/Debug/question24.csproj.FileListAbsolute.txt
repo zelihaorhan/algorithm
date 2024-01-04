@@ -1,0 +1,7 @@
+C:\Users\Zeliha\Documents\GitHub\algorithm\question24\question24\bin\Debug\question24.exe.config
+C:\Users\Zeliha\Documents\GitHub\algorithm\question24\question24\bin\Debug\question24.exe
+C:\Users\Zeliha\Documents\GitHub\algorithm\question24\question24\bin\Debug\question24.pdb
+C:\Users\Zeliha\Documents\GitHub\algorithm\question24\question24\obj\Debug\question24.csproj.AssemblyReference.cache
+C:\Users\Zeliha\Documents\GitHub\algorithm\question24\question24\obj\Debug\question24.csproj.CoreCompileInputs.cache
+C:\Users\Zeliha\Documents\GitHub\algorithm\question24\question24\obj\Debug\question24.exe
+C:\Users\Zeliha\Documents\GitHub\algorithm\question24\question24\obj\Debug\question24.pdb
