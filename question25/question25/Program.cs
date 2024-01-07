@@ -12,7 +12,7 @@ namespace question25
         {
             //Write the code of the program that finds the desired number between the numbers 1 to 63 in a maximum of 6 times.
 
-            Console.WriteLine("Select a number between 1 and 63 and press Enter.");
+            Console.WriteLine("Select a number between 1 and 63 and press enter.");
             Console.ReadLine();
 
             int lowerBound = 1;
@@ -25,15 +25,15 @@ namespace question25
                 guess = (lowerBound + upperBound) / 2;
 
                 Console.WriteLine($"Guess: {guess}");
-                Console.WriteLine("Is it true? (D/K/E): ");
+                Console.WriteLine("Is it true? (T/F/E): ");
                 string answer = Console.ReadLine();
 
-                if (answer.ToUpper() == "D")
+                if (answer.ToUpper() == "T")
                 {
                     Console.WriteLine($"Bingo! {guess} the number of {guessNumber + 1}. I guessed.");
                     break;
                 }
-                else if (answer.ToUpper() == "K")
+                else if (answer.ToUpper() == "F")
                 {
                     upperBound = guess - 1;
                 }
