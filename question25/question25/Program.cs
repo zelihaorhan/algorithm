@@ -43,7 +43,7 @@ namespace question25
                 }
                 else
                 {
-                    Console.WriteLine("You entered an invalid answer. Please enter 'D', 'K' or 'E'.");
+                    Console.WriteLine("You entered an invalid answer, Please enter 'D', 'K' or 'E'.");
                 }
 
                 guessNumber++;
