@@ -23,7 +23,7 @@ namespace question24
             }
             else
             {
-                Console.WriteLine("These numbers are not valid.");
+                Console.WriteLine("These numbers are not valid..");
             }
 
             Console.ReadLine();
